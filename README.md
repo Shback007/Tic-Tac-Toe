@@ -12,7 +12,7 @@ The Tic Tac Toe Game is a simple web-based implementation of the classic Tic Tac
 ## Project Structure
 - `index.html`: The main HTML file containing the game's user interface.
 - `style.css`: The CSS file for styling the game interface.
-- `index.js`: The JavaScript file containing the game logic and interactivity.
+- `script.js`: The JavaScript file containing the game logic and interactivity.
 
 ## Key Functionalities
 - Player turns: The game alternates between 'X' and 'O' players for each move.
@@ -25,9 +25,8 @@ The Tic Tac Toe Game is a simple web-based implementation of the classic Tic Tac
 2. Two players take turns clicking on the buttons to place their symbol ('X' or 'O').
 3. The game checks after each move for a winning combination or a draw.
 4. If a player gets three of their symbols in a row, column, or diagonal, they win.
-5. If all cells are filled and no winning combination is found, the game declares a draw.
-6. Players can restart the game by clicking the "Restart" button.
-7. The game interface also includes a "New Game" button that resets the game and enables players to start a new match.
+5. Players can restart the game by clicking the "Restart" button.
+6. The game interface also includes a "New Game" button that resets the game and enables players to start a new match.
 
 ## Usage
 1. Clone the repository using `git clone https://github.com/your-username/tic-tac-toe.git`.
