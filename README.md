@@ -38,4 +38,4 @@ Contributions to this project are welcome! If you find any bugs or have suggesti
 
 
 
-[Game Link](https://shback007.github.io/Tic-Tac-Toe/)
+<a href="https://shback007.github.io/Tic-Tac-Toe/" target="_blank">Game Link</a>
