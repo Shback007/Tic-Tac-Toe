@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-![demo.png]
+!(demo.png)
